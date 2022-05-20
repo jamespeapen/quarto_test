@@ -1,3 +1,7 @@
+---
+listing: 
+  categories: true
+---
 # Preface {.unnumbered}
 
 This is a Quarto book.
